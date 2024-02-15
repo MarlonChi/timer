@@ -1,5 +1,13 @@
-function App() {
-  return <>Timer</>;
-}
+import { ThemeProvider } from "styled-components";
 
-export default App;
+import { defaultTheme } from "./styles/themes/default";
+import { GlobalStyle } from "./styles/global";
+
+export function App() {
+  return (
+    <ThemeProvider theme={defaultTheme}>
+      Timer
+      <GlobalStyle />
+    </ThemeProvider>
+  );
+}
