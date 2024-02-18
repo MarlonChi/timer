@@ -17,12 +17,12 @@ Acesse <http://localhost:5173> para visualizar a aplicação.
 
 ## Imagens
 
-<h2 align="center">nterromper Ciclo</h2>
+Interromper Ciclo
 <p align="center">
   <img src=".github/image2.PNG" width="100%">
 </p>
 
-<h2 align="center">Histórico</h2>
+Histórico
 <p align="center">
   <img src=".github/image3.PNG" width="100%">
 </p>
